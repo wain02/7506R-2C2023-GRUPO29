@@ -1,6 +1,12 @@
 # Organizacion de Datos
 # 7506R-2C2023-GRUPO29
 
+Integrantes:
+  - Isidro Borthaburu
+  - Delfina Cano Langrehr
+  - Martin Wainwright 
+
+
 Trabajo Práctico N°1 y N°2 de la materia Organización de Datos, cat. Rodríguez, de la Facultad de Ingeniería de la Universidad de Buenos Aires
 
 TP N°1:
@@ -12,11 +18,3 @@ El conjunto de datos es una serie de criticas cinematograficas en idioma españo
 
 Estos trabajos practicos fueron separados en etapas llamados Checkpoints, cada uno con su objetivo y reporte propio.
 
-Integrantes:
-  - Isidro Borthaburu
-  - Delfina Cano Langrehr
-  - Martin Wainwright
-
-* Reporte
-* Link al Google Colab:
- 
