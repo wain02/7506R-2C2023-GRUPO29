@@ -3,7 +3,7 @@
 
 Integrantes:
   - Isidro Borthaburu
-  - Delfina Cano Langrehr
+  - Delfina Cano Ros Langrehr
   - Martin Wainwright 
 
 
